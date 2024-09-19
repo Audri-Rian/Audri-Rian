@@ -12,17 +12,16 @@
 
 <p align="left">• 👨‍💻 I’m currently learning JavaFX</p>
 
-###
-
-<p align="left">• 🫅🏻 I will be the best!</p>
-
-###
 
 <p align="left">• 🌱 Some projects in my www.linkedin.com/in/audri-rian-720068215</p>
 
 ###
 
 <p align="left">• 📫 How to reach me audririan1@gmail.com</p>
+
+###
+
+<p align="left">• 🫅🏻 I will be the best!</p>
 
 ###
 
