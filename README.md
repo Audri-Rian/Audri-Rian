@@ -12,19 +12,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" alt="Linkedin">
+  <a href="www.linkedin.com/in/audri-rian-720068215" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.youtube.com/" alt="Youtube">
+  <a href="[https://www.youtube.com/](https://youtube.com/channel/UCtSHOrRGweE9WW5SetDoYwg?si=SM8M3mFKq2Uecqur)" alt="Youtube">
     <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/" alt="Discord">
+  <a href="https://discord.com/TO ficando louco#7284" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/" alt="Instagram">
+  <a href="https://www.instagram.com/audririan1" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>  
