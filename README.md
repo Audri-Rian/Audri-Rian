@@ -5,7 +5,7 @@
 <h1 align="center">Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  Eu sou o <strong>Audri Rian</strong>, desenvolvedor full stack, especializado em <strong>Laravel e Vue.js</strong>, com interesse também em <strong>API development, clean architecture e DevOps practices</strong>.
+  Eu sou o <strong>Audri Rian</strong>, desenvolvedor full stack, especializado em <strong>Laravel e Vue.js</strong>, com interesse também em <strong>API development, clean architecture e DevOps practices</strong>. Tenho <strong>3 anos</strong> de experiência na área de programação, tanto como freelancer e tambem em empresas.
   Gosto de trabalhar tanto no <strong>back-end</strong> quanto no <strong>front-end</strong>, focando sempre na <strong>qualidade</strong>, <strong>eficiência</strong> e <strong>organização</strong>.
 </p>
 
